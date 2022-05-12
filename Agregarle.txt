@@ -1,2 +1,0 @@
-Agregarle CABECERA STICKY HEADER onda jonmircha
-hacer tablas de monotributo con ventanas modal
